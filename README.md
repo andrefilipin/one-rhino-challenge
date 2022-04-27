@@ -1,6 +1,6 @@
 ## Description
 
-Small API to convert
+Small API to convert Roman number to Arabic
 
 ## Running the app
 
